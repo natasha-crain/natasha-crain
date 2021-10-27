@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS and JS.**
 
-- 👯 I’m looking to collaborate on **creative, fun websites.**
+- 👯 I’m looking to collaborate on **creative and kinda wacky websites.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/natasha-crain](https://github.com/natasha-crain)
 
