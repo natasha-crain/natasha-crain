@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **creative, fun websites.**
 
-- 👨‍💻 All of my projects are available at [https://ncrain-boop.github.io/](https://ncrain-boop.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/natasha-crain](https://github.com/natasha-crain)
 
 - 💬 Ask me about **HTML and CSS**
 
